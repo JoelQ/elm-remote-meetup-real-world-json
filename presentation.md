@@ -636,11 +636,20 @@ userDecoder =
 
 ---
 
+## Takeaways
+
+1. Break things down into small pieces
+2. Write the types first
+3. Use two-step decoding to conditionally use one of many decoders
+
+---
+
 ## Joël Quenneville
 
 * Developer at thoughtbot
 * Twitter `@joelquen`
 * GitHub `@JoelQ`
 * Slack `@joelq`
+* Slides https://github.com/JoelQ/elm-remote-meetup-real-world-json
 
 ![fit](ralph.png)
